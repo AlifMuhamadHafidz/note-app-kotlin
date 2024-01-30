@@ -11,7 +11,8 @@ This App was develop using:
 
 1. User can create a new Note
 2. User can edit a Note
-3. User can Delete their Note
+3. User can search their Note
+4. User can delete their Note
 
  
 # 🔗 App Preview
@@ -31,10 +32,13 @@ This App was develop using:
 # 5. List Note After Edit
 ![ListNoteAfterEdit](https://raw.githubusercontent.com/AlifMuhamadHafidz/AlifMuhamadHafidz/main/gambarnoteapp/listnoteafteredit.png)
 
-# 6. Delete Note
+# 6. Search the Note
+![SearchNote](https://raw.githubusercontent.com/AlifMuhamadHafidz/AlifMuhamadHafidz/main/gambarnoteapp/search.png)
+
+# 7. Delete Note
 ![DeleteNote](https://raw.githubusercontent.com/AlifMuhamadHafidz/AlifMuhamadHafidz/main/gambarnoteapp/deletenote.png)
 
-# 6. List Note After Delete
+# 8. List Note After Delete
 ![ListNoteAfterDelete](https://raw.githubusercontent.com/AlifMuhamadHafidz/AlifMuhamadHafidz/main/gambarnoteapp/listafterdeleted.png)
 
 
